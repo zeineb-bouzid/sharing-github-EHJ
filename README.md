@@ -1,4 +1,4 @@
-# Code description
+# Description
 
 This repository contains the codes necessary to generate the results described in our paper "ECG-based machine learning for risk stratification of patients with suspected acute coronary syndrome".
 
